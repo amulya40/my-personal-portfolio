@@ -1,9 +1,13 @@
 # my-personal-portfolio
-Hello Everyone!
-This is my personal portfolio.
-This project I created during my bootcamp project submission.
-In this project I used technology: HTML and CSS.
-In this have some javascript attribute but that is just html,css project so I didn't implemented.
+>Hello Everyone!
+
+>This is my personal portfolio.
+
+>This project I created during my bootcamp project submission.
+
+>In this project I used technology: HTML and CSS.
+
+>In this have some javascript attribute but that is just html,css project so I didn't implemented.
 
 # Snap-shorts.
 >Header-part
